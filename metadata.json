@@ -1,6 +1,6 @@
 {
   "name": "Architectural Photo Renderer",
-  "description": "Convert architectural 3D sketch designs into realistic photos using Gemini.",
+  "description": "Convert architectural 3D sketch designs into realistic photos using Gemini. Includes Google Account Cloud Synchronization and Nano Banana API support.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
